@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework311</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_shake">Shake</string>
+    <string name="iconddesc">Icon</string>
+    <string name="title">Title</string>
+    <string name="article_text_goes_here">Article Text goes here</string>
+    <string name="placeholderdate">PlaceholderDate</string>
+    <string name="title_placeholder">Title placeholder</string>
+    <string name="background_image">background image</string>
+    <string name="std_date_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="DetailView_Date_format">MMM dd HH:mm a</string>
+    <string name="raw_xml_provider">Raw XML</string>
+    <string name="refreshing_content">Refreshing content...</string>
+
+</resources>

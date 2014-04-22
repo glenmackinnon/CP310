@@ -1,0 +1,40 @@
+<articles>
+  <item>
+    <title>Apple application to trademark iPad Mini denied - CNET</title>
+    <content>The U.S. Patent and Trademark Office has denied Apple's bid to trademark the term "iPad Mini," contending that "mini" is "merely descriptive" of goods or services sold in miniature form.
+      In a letter sent to Apple in January but only recently published, the USPTO reviewer denied Apple's application because "the applied-for mark merely describes a feature or characteristic of applicant's goods." Apple can appeal the decision, but to win a reversal the company will need to address the office's reasons for denial.</content>
+  </item>
+  <item>
+    <title>Facebook's Android OS will be called “Facebook Home” - SlashGear</title>
+    <content>Last week, we reported that Facebook is planning on revealing its own customized version of the Google Android operating system . They will be debuting their “special” version of the Android OS onto one of HTC’s devices. It’s speculated that it will launch on a new HTC device, however, there’s also reports that the OS will be able to run on HTC’s older handsets, and even on its upcoming flagship handset, the HTC One.
+      
+      Now reports are saying that Facebook’s version of Android OS will be called “Facebook Home”. Sources revealed to 9to5Google that the tagline on Facebook’s invitations, “Come See Our New Home On Android”, is actually a teaser to the new product name. Facebook’s version of the OS will feature deep integration into Android. Facebook Messenger, Photos, and Contacts will be set as the default programs, with Facebook Messenger being used for both messaging your Facebook friends, as well as sending out SMS text messages.</content>
+  </item>
+  <item>
+    <title>Spamhaus DDoS attack not to blame for rise in spam - DaniWeb (blog)</title>
+    <content>The media, online and off, has been full of scare stories about the 'biggest Internet attack ever' and how a distributed denial of service (DDoS) campaign aimed against anti-spam outfit Spamhaus peaked at an attack volume of 300 Gbps (the highest ever recorded by those who record such things) was 'slowing down the global Internet'. DaniWeb didn't join the rush to shout 'the sky is falling' as, frankly, we didn't believe it as there was precious little evidence to be found that the DDoS attack was impacting anyone other than Spamhaus along with it's anti-DDoS protection service CloudFlare and their upstream providers. Sure it was a serious attack, one that could well have implications on the direction such things are heading in, and potentially could be bad news for all of use. However, the Internet did not slow down and for the vast majority of global users there was no noticeable effect at all. The one area that you might think would be impacted is the amount of spam that reaches your mailbox. After all, if one of the main organisations responsible for keeping the lid on spam distribution channels is taken off air then surely we can expect to see spam levels peak. So when a press release arrived following these attacks which proclaimed that spam is twice as likely to be hitting mailboxes than previously, I was concerned. But only for a few moments, as a bit more reading reassured me that it had nothing to do with the Spamhaus attacks at all.</content>
+  </item>
+  <item>
+    <title>Vizio announces pricing for new Windows 8 laptops, all-in-one desktops - ZDNet</title>
+    <content>With its first round of computers, Vizio tried the approach that made it wildly successful with its HDTVs: decent quality at a very affordable price. But with its latest group of desktops and laptops, Vizio is going upscale.
+      
+      Introduced at this year's CES, the new Windows 8 touchscreen-enabled Vizio PC lineup has just received its pricing, and not one of the four new systems costs less than $1,000. The least expensive model is the CT14T-B0 14-inch laptop, which features an AMD APU processor and a $1,089 price tag. But adding an Intel Core i7 processor instead boosts the price to $1,419.99.
+      
+      The 15.6-inch thin-and-light laptop starts at $1,189.99 with AMD inside, whereas the Core i7 flavor of the same machine runs $1,469.99. Note that while these notebooks include touchscreen capabilities, they are not convertible  models with tablet functionality that justify the high price. But they are being marketed as super-svelte competitors designed to take on the MacBook Air, with similar aluminum unibody construction and solid state storage.
+      
+      Pricing for premium all-in-one desktop PCs tends to run a little higher, so the sticker price for Vizio's new desktops appears a bit more in line with the overall marketplace. The 24-inch CA24T-B0 starts at $1,279.99, and includes an AMD A10-4600M processor, 8GB of RAM, 1TB hard drive, and built-in 802.11ac Wi-Fi capabilities. A version using a Core i7 CPU instead will run $1,439.99.  
+      
+      There's no AMD version of the 27-inch all-in-one, with the CA27T-A5 coming with a Core i7-3630QM processor and similar components as the 24-inch model (albeit with a bigger screen). It will set you back $1,549.99.</content>
+  </item>
+  <item>
+    <title>World's top supercomputer from '09 is now obsolete, will be dismantled - Ars Technica</title>
+    <content>Five years ago, an IBM-built supercomputer designed to model the decay of the US nuclear weapons arsenal was clocked at speeds no computer in the history of Earth had ever reached. At more than one quadrillion floating point operations per second (that's a million billion, or a "petaflop"), the aptly-named Roadrunner was so far ahead of the competition that it earned the #1 slot on the Top 500 supercomputer list in June 2008, November 2008, and one last time in June 2009.
+      
+      Today, that computer has been declared obsolete and it's being taken offline. Based at the US Department of Energy's Los Alamos National Laboratory in New Mexico, Roadrunner will be studied for a while and then ultimately dismantled. While the computer is still one of the 22 fastest in the world, it isn't energy-efficient enough to make the power bill worth it.
+      
+      "During its five operational years, Roadrunner, part of the National Nuclear Security Administration’s Advanced Simulation and Computing (ASC) program to provide key computer simulations for the Stockpile Stewardship Program, was a workhorse system providing computing power for stewardship of the US nuclear deterrent, and in its early shakedown phase, a wide variety of unclassified science," Los Alamos lab said in an announcement Friday.
+      
+      Costing more than $120 million, Roadrunner's 296 server racks covering 6,000 square feet were connected with InfiniBand and contained 122,400 processor cores. The hybrid architecture used IBM PowerXCell 8i CPUs (an enhanced version of the Sony PlayStation 3 processor) and AMD Opteron dual-core processors. The AMD processors handled basic tasks, with the Cell CPUs "taking on the most computationally intense parts of a calculation—thus acting as a computational accelerator," Los Alamos wrote.</content>
+  </item>
+  
+</articles>
