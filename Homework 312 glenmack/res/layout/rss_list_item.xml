@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="72dp"
+    android:background="@drawable/grad"
+    tools:context="com.heymonk.homework312.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+        <ImageView
+            android:id="@+id/backgnd"
+            android:layout_width="72dp"
+            android:layout_height="68dp"
+            android:layout_margin="0dp"
+            android:alpha="0.50"
+            android:background="@drawable/box"
+                    android:contentDescription="@string/iconddesc"
+            android:paddingBottom="0dp"
+            android:scaleType="fitCenter"
+            android:visibility="visible" />
+    
+    <ImageView
+        android:id="@+id/rss_lvicon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_margin="4dp"
+        android:contentDescription="@string/icondesc"
+        android:adjustViewBounds="false"
+        android:paddingBottom="2dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_rss1" />
+
+    <TextView
+        android:id="@+id/rss_lvtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@+id/rss_lvicon"
+        android:ellipsize="end"
+        android:lines="2"
+        android:paddingRight="4dp"
+        android:singleLine="false"
+        android:text="@string/title_placeholder"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rss_lvdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/rss_lvtitle"
+        android:layout_marginLeft="88dp"
+        android:text="@string/dateplaceholder"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="12sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>
+

@@ -1,0 +1,114 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.heymonk.homework312.MainListFragment" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:showDividers="middle" >
+
+        <RelativeLayout
+            android:id="@+id/rss_titlebox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="4dp"
+            android:background="#fff0f0" >
+            
+        <ImageView
+            android:id="@+id/backgnd"
+            android:layout_width="72dp"
+            android:layout_height="68dp"
+            android:layout_margin="0dp"
+            android:alpha="0.50"
+            android:background="@drawable/box"
+            android:paddingBottom="0dp"
+            android:contentDescription="@string/icondesc"
+            android:scaleType="fitCenter"
+            android:visibility="visible" />
+        
+            <ImageView
+                android:id="@+id/rss_icon"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_margin="4dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/iconddesc"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_launcher" />
+
+            <TextView
+                android:id="@+id/rss_titleview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="false"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_toRightOf="@id/rss_icon"
+                android:ellipsize="end"
+                android:gravity="left"
+                android:maxLines="4"
+                android:singleLine="false"
+                android:text="@string/title"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/rss_dateview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="false"
+                android:layout_below="@id/rss_titleview"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="4dp"
+                android:layout_toRightOf="@id/rss_icon"
+                android:gravity="right"
+                android:text="@string/placeholderdate"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textSize="12sp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/rss_providername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="false"
+                android:layout_below="@id/rss_dateview"
+                android:layout_marginLeft="8dp"
+                android:layout_toRightOf="@id/rss_icon"
+                android:gravity="left"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textSize="12sp"
+                android:textStyle="italic" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:background="#FCFCFC"
+            android:orientation="vertical"
+            android:padding="12dp"
+            android:scrollbarStyle="outsideOverlay" >
+
+            <WebView
+                android:id="@+id/rss_contentviewWeb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#fe8080" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
