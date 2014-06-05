@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW 314 glenmack</string>
+    <string name="app_title">Weather</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="toggle_c_f_">"Toggle C-F "</string>
+    <string name="refreshing_content">Refreshing Content</string>
+    <string name="_56">--°</string>
+    <string name="_45">--°</string>
+    <string name="thu">---</string>
+    <string name="f">F</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="seattle">--</string>
+    <string name="thunderstorms">--</string>
+    <string name="no">--</string>
+    <string name="_20P">--</string>
+    <string name="pull_to_refresh">---- Pull to Refresh ---</string>
+    <string name="layout_bar">layout bar</string>
+    <string name="forecast_icon">forecast icon</string>
+    <string name="weatherunderground_logo">Weatherunderground logo</string>
+    <string name="windspeed_icon">Windspeed Icon</string>
+    <string name="raingauge_icon">RainGauge Icon</string>
+    <string name="apptitle">Weather</string>
+    <string name="updated">updated</string>
+    <string name="refresh">refresh</string>
+    
+    <string name="WuMapUrl">http://www.wunderground.com/wundermap/?apiref=671af4a096ad8e00&amp;zoom=11&amp;pin=&amp;rad=1&amp;wxsn=0&amp;svr=0&amp;cams=0&amp;sat=0&amp;riv=0&amp;mm=0&amp;hur=0&amp;zip=%s</string>
+    
+    <string name="base_url_printf">http://api.wunderground.com/api/9a8a3a60760a7d22/conditions/forecast10day/q/%s.json</string>
+    <string name="default_city">Seattle</string>
+    <string name="default_zip">98103</string>
+    <string name="default_city2">Mercer Island</string>
+    <string name="default_zip2">98040</string>
+    <string name="default_city3">Kona, Hi</string>
+    <string name="default_zip3">96740</string>
+        
+    <string name="prefskey">com.heymonk.weather314</string>
+    <string name="KEYPREFIX">KEY</string>
+        
+    <string name="Zip_Dialog_title">Enter ZIP code</string>
+    <string name="Zip_Dialog_Help">Please enter a Zip code and friendly name!</string>
+    <string name="Zip_dialog_zip_hint">zip</string>
+    <string name="Zip_dialog_name_hint">friendly name</string>
+    <string name="Zip_dialog_OK">OK</string>
+    <string name="Zip_dialog_cancel">Cancel</string>
+    <string name="refreshing_forecast">Refreshing Forecast</string>
+    
+    <string name="precip_label">"Precip: "</string>
+    <string name="f_label">°F</string>
+    <string name="c_label">°C</string>
+    <string name="kmh_label">km/h</string>
+    <string name="mph_label">mph</string>    
+    <string name="in_label">in</string>
+    <string name="mm_label">mm</string>
+    <string name="windicon">windicon</string>
+    <string name="rainicon">rainicon</string>    
+    
+
+
+</resources>

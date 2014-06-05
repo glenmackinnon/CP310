@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hw314weather.MainActivity$PlaceholderFragment" >
+
+    <include
+        android:id="@+id/include1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="21dp"
+        android:layout_marginTop="21dp"
+        layout="@layout/weather_tile" />
+
+
+</RelativeLayout>

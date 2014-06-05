@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorActionBarBackground">#ff208020</color>
+    <color name="colorActionBarText">#ffe0e000</color>
+    <color name="colorViewPagerBackground">#ff638563</color>
+</resources>
